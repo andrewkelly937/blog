@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...making a change to the readme
+* ...making two changes to the README
